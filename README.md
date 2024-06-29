@@ -28,12 +28,12 @@ According to different settings, we divided them into: i) Train an AutoEncoder o
                ├── Sign.py             ├── Cifar10_I.py          └── main.py
                ├── SignReg.py          ├── Cifar10_II.py
                └── BiHalf.py           ├── Flickr25k.py
-    	     			                       └── Mscoco.py
+    	     			       └── Mscoco.py
 ```
 
 
 ### Datasets download
-
+使用了 Cifar10、Flickr25k 这两个数据集进行实验
 |#|Datasets|Download|
 |---|----|-----|
 |1|Flick25k|[Link](https://press.liacs.nl/mirflickr/mirdownload.html)
